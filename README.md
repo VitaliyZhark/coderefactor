@@ -3,7 +3,7 @@
 # coderefactor
 
 <br>
-<h1> Horiseon Social Solution Services, Inc.</h1>
+<h1> Horiseon Social Solution Services, Inc. </h1>
 <br>
 <h2>Table of Contents</h2>
 
@@ -31,8 +31,8 @@
 
 <h2 id="Technologies">Technologies</h2>
 <ul>
-  <li>HTML 67.4%</li>
-  <li>CSS 32.6%</li>
+  <li>HTML 67.4% </li>
+  <li>CSS 32.6% </li>
 </ul>
 
 <h2 id="Preview">Preview</h2>
@@ -47,6 +47,6 @@
 </ul>
 
 <h2 id="License">License</h2>
-<p> MIT &copy; 2022 <a href="https://github.com/VitaliyZhark/">Vitaliy Zharkovskiy</a></p>
+<p> MIT &copy; 2022 <a href="https://github.com/VitaliyZhark/">Vitaliy Zharkovskiy </a></p>
 
 
