@@ -3,7 +3,7 @@
 # coderefactor
 
 <br>
-<h1> Horiseon Social Solution Services, Inc. </h1>
+<h1><a href="https://vitaliyzhark.github.io/coderefactor/"> Horiseon Social Solution Services, Inc. </a></h1>
 <br>
 <h2>Table of Contents</h2>
 
