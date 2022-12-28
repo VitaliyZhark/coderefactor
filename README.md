@@ -31,8 +31,8 @@
 
 <h2 id="Technologies">Technologies</h2>
 <ul>
-  <li>HTML 58.0%</li>
-  <li>CSS 42.0%</li>
+  <li>HTML 67.4%</li>
+  <li>CSS 32.6%</li>
 </ul>
 
 <h2 id="Preview">Preview</h2>
