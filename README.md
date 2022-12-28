@@ -39,7 +39,7 @@
   <li></li>
   <li></li>
   <li></li>
-<ul>
+</ul>
 
 <h2>Lisence</h2>
 <p> MIT &copy; 2022 Vitaliy Zharkovskiy
