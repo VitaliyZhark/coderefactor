@@ -1,4 +1,7 @@
+
+
 # coderefactor
+
 <br>
 <h1> Horiseon Social Solution Services, Inc.</h1>
 <br>
@@ -6,7 +9,7 @@
 
 <ul>
   <li><a href="#Goals">Goals</li>
-  <li><a href="#Features">Features</li>
+  <li><a href="#Acceptance Criteria">Acceptance Criteria</li>
   <li><a href="#Technologies">Technologies</li>
   <li><a href="#Preview">Preview</li>
   <li><a href="#Contributing">Contributing</li>
@@ -16,12 +19,14 @@
 <h2 id="Goals">Goals</h2>
 <p>The primary goal for this project was to edit the existing homepage for Horiseon Social Solution Services to improve its accessibility features and overall semantic structure. The secondary goal was to fix any broken page components and refactor the page's HTML and CSS documents to reduce repetition and improve readability.</p>
 
-<h2 id="Features">Features</h2>
+<h2 id="Acceptance Criteria">Acceptance Criteria</h2>
+<text>Your website must meet accessibility standards. You can achieve this completing the following:</text>
 <ul>
-  <li><strong>Semantic HTML Structure: </strong>Replaced generic container elements and class names with appropriate semantic elements and semantic class names.</li>
-  <li><strong>Page Headings: </strong>Ensured that heading elements follow a logical, sequential order.</li>
-  <li><strong>Improved Image Accessibility: </strong>Added alt attributes to < img > tags to improve the experience of users visiting the page using assisitive technology.</li>
-  <li><strong>Page Title: </strong>Added keyword driven page title to < title > element to improve SEO and help users with disabilities more quickly understand the page's content and purpose.</li>
+  <li>Semantic HTML elements can be found throughout the source code</li>
+  <li>HTML elements follow a logical structure independent of styling and positioning</li>
+  <li>Image and icon elements contain accessible alt attributes</li>
+  <li>Heading attributes fall in sequential order</li>
+  <li>Title elements contain a concise, descriptive title</li>
 </ul>
 
 <h2 id="Technologies">Technologies</h2>
@@ -36,14 +41,12 @@
 
 <h2 id="Contributing">Contributing</h2>
 <ul>
-  <li>demotext</li>
-  <li>demotext</li>
-  <li>demotext</li>
+  <li><a href="https://github.com/">https://</a></li>
+  <li><a href="https://github.com/">https://</a></li>
+  <li><a href="https://github.com/">https://</a></li>
 </ul>
 
 <h2 id="License">License</h2>
-<p> MIT &copy; 2022 Vitaliy Zharkovskiy
-
-
+<p> MIT &copy; 2022 <a href="https://github.com/VitaliyZhark/">Vitaliy Zharkovskiy</a></p>
 
 
